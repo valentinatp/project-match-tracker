@@ -1,0 +1,27 @@
+{
+  "name": "project-match-tracker",
+  "version": "1.0.0",
+  "description": "tracker for football soocer} match",
+  "homepage": "https://github.com/valentinatp/project-match-tracker#readme",
+  "bugs": {
+    "url": "https://github.com/valentinatp/project-match-tracker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valentinatp/project-match-tracker.git"
+  },
+  "license": "ISC",
+  "author": "Valentina Toledo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/javascript/index.js"
+  },
+  "dependencies": {
+    "project-match-tracker": "file:"
+  },
+  "devDependencies": {
+    "colors": "^1.4.0"
+  }
+}
